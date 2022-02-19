@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace Battleship.Tests;
 
-public class BattleshipTests
+public class BoardTileTests
 {
     [SetUp]
     public void Setup()
