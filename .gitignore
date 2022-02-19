@@ -1,0 +1,9 @@
+# C# Temp/Build dumps
+Battleship/bin/
+Battleship/obj/
+Battleship.Tests/bin/
+Battleship.Tests/obj/
+
+# vim
+*.swp
+
